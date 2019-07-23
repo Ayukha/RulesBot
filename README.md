@@ -24,6 +24,6 @@ Automated Response System based on the rules written in form of JSON
 ## 
 
 <p>
-    <img src="https://drive.google.com/file/d/1HYkMQHba9yNmsuodSJPalNtzQNi4kal2/view"/></a>
+    <img src="/bot.png">
 </p>
 
